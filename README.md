@@ -1,4 +1,3 @@
-# taxi-trip-duration-tensorflow-deeplearning
 # New York Taxi Trip Duration Prediction using Deep Learning 
 
 **Introduction**
@@ -20,6 +19,12 @@ transportation analytics
 **Objective**     
 **Objective 1** – RegressionPredict the exact trip duration (in seconds) based on trip features    
 **Objective 2** – ClassificationCategorize trip duration into: Short/ Medium/ Long 
- 
+
+Hyperparameters such as the number of units, dropout rate, batch size, and epochs were tuned using Grid Search with 5-fold cross-validation. To optimize the deep learning models, we performed hyperparameter tuning using Grid Search and K-fold cross-validation. 
+1. Cross-Validation Setup 
+2. Regression Model Tuning 
+3. Classification Model Tuning
+After performing grid search with 5-fold cross-validation, the best hyperparameter configurations for both the regression and classification models were identified. 
+
  
 
