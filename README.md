@@ -1,6 +1,6 @@
 # New York Taxi Trip Duration Prediction using Deep Learning 
 
-**Introduction**
+**Introduction**    
 Predicting travel time is essential for transportation logistics, ride-sharing platforms, and city planning. This project uses the NYC Taxi Trip Duration dataset to build models capable of accurately estimating taxi trip durations using machine learning and deep learning models.
 
 **Goal**: Build accurate and efficient models to support 
