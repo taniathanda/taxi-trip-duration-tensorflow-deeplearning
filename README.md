@@ -6,7 +6,8 @@ Predicting travel time is essential for transportation logistics, ride-sharing p
 
 Goal: Build accurate and efficient models to support 
 transportation analytics
-<img width="4560" height="216" alt="image" src="https://github.com/user-attachments/assets/0625b7eb-5fb7-4cc6-bb2a-e9f18ccdc963" />
+<img width="800" height="433" alt="image" src="https://github.com/user-attachments/assets/9ba20c2d-8991-4862-a96e-c99ac8730e98" />
+
 
 **Project Workflow**
 Step 1: Data Cleaning & Feature Engineering
